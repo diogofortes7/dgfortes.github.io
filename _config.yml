@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Diogo Fortes / PhD Student @ JHSPH"
+title                    : "Diogo Fortes"
 title_separator          : "-"
 name                     : &name "Diogo Fortes"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Diogo Fortes"
   pronouns         : "he/they"  
-  bio              : "Doctoral student interested in how policy shapes the ability of people with disabilities to participate meaningfully in their communities"
+  bio              : "Doctoral Student \n Department of Mental Health"
   location         : "Baltimore, MD"
   employer         : "Johns Hopkins Bloomberg School of Public Health"
   uri              : # URL
