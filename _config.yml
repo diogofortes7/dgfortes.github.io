@@ -12,7 +12,7 @@ title                    : "Diogo Fortes / PhD Student @ JHSPH"
 title_separator          : "-"
 name                     : &name "Diogo Fortes"
 description              : &description "personal description"
-url                      : https://dgfortes.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://diogofortes7.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "diogofortes7/dgfortes.github.io"
 
